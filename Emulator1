@@ -1,0 +1,9 @@
+<system>
+  <name>wii</name>
+  <fullname>Nintendo Wii</fullname>
+  <path>/rom/path/here</path>
+  <extension>.elf .dol .gcm .iso .wbfs .ciso .gcz .wad</extension>
+  <command>dolphin-emu -b -e %ROM%</command>
+  <platform>wii</platform>
+  <theme>wii</theme>
+</system>
